@@ -2,6 +2,9 @@
 Polus.gg 重建版(如果能夠成功)
 Polus.gg rebuild.
 
+> [!note]
+  因部分原因，此项目被暂停了，目前我们转而支持基于[TheOtherRolesGMIA](https://github.com/dabao40/TheOtherRolesGMIA)的[TheOtherRolesGMNK](https://github.com/endrmen9487/TheOtherRolesGMNK)
+
 # English readme is preparing.
 
 # 船員職業:
